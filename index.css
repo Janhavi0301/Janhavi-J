@@ -1,0 +1,8 @@
+a:hover{
+    background-color: rgba(0, 195, 255, 0.781);
+    color: black;
+}
+p:first-line{
+    color: rgba(11, 224, 46, 0.445);
+    font-size: 30px;
+}
